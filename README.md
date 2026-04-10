@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abmnasim" alt="abmnasim" /></a> </p>
 
-- 📫 How to reach me **abmnasim@gmail.com**
+- 📫 How to reach me **abmnasim@outlook.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
